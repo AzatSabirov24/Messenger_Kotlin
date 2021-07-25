@@ -1,0 +1,2 @@
+rootProject.name = "Messenger_Kotlin"
+include ':app'
